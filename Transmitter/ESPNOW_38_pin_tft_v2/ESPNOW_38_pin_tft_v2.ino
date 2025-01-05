@@ -181,7 +181,7 @@ if (buttonState != lastButtonState) {
       modnum ++;
       if (modnum > modmax) modnum = 1;
 
-    delay(50);
+    // delay(50);
   }
 }
 
